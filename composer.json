@@ -1,0 +1,7 @@
+{
+    "name": "bashk/mvc-framework",
+    "description": "First MVC Framework",
+    "type": "project",
+    "license": "MIT",
+    "require": {}
+}
