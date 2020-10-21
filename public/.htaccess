@@ -1,0 +1,6 @@
+#Включаем режим перезаписи
+RewriteEngine on
+#Если не директория
+RewriteCond %{REQUEST_FILENAME} !-d
+#Если не файл
+RewriteCond %{REQUEST_FILENAME} !-d
